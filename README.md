@@ -1,2 +1,2 @@
 # moderncpp
-A collection of potentially interesting CPP snippets :)
+A collection of C++ snippets
